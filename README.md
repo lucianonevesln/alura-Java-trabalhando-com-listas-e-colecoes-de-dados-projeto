@@ -7,12 +7,10 @@ Tecnologias Utilizadas:
 Intellij;
 Java.
 
-Objetivo: Criar uma aplicação que gerencie gastos de cartão de crédito, cujo objetivo seja trabalhar os pilares da
-Programação Orientada a Objetos:
+Objetivo: Criar uma aplicação que gerencie gastos de cartão de crédito:
 
 Abstração;
 Encapsulamento;
 Polimorfismo;
-Herança.
 
 NOTA: branch secundária em que será utilizado solução proposta no curso.

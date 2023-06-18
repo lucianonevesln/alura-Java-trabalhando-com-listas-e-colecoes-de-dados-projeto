@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb03a943-f0ef-4307-8122-d4e22b192b4d" name="Changes" comment="Commit teste solução do curso" />
+    <list default="true" id="fb03a943-f0ef-4307-8122-d4e22b192b4d" name="Changes" comment="Commit teste solução do curso">
+      <change afterPath="$PROJECT_DIR$/src/CartaoDeCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lucianoneves/main/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
