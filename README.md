@@ -15,5 +15,4 @@ Encapsulamento;
 Polimorfismo;
 Herança.
 
-NOTA: na branch principal, foi utilizada solução criada pelo desenvolvedor. A branch secundária (a ser criada), será
-utilizado solução proposta no curso.
+NOTA: branch secundária em que será utilizado solução proposta no curso.
